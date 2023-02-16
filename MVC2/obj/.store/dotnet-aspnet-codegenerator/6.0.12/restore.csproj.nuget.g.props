@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/aarondayrit/Code/Visual Studio/Unit 5 - Advanced ORM/Projects/MVC2/MVC2/obj/.store/.stage/uvcnuylu.fpy</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/aarondayrit/Code/Visual Studio/Unit 5 - Advanced ORM/Projects/MVC2/MVC2/obj/.store/.stage/uvcnuylu.fpy</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/aarondayrit/Code/Visual Studio/Unit 5 - Advanced ORM/Projects/MVC2/MVC2/obj/.store/.stage/uvcnuylu.fpy/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/aarondayrit/Code/Visual Studio/Unit 5 - Advanced ORM/Projects/MVC2/MVC2/obj/.store/.stage/uvcnuylu.fpy/dotnet-aspnet-codegenerator/6.0.12</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{9F831D63-949A-4012-BDFD-44786354A750}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVC2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC2/Views/Laptop/Create.cshtml">
+    <Files>
+      <File FileName="MVC2/Models/Laptop.cs" Line="8" Column="30" />
+      <File FileName="MVC2/Models/BRand.cs" Line="11" Column="1" />
+      <File FileName="MVC2/Data/LaptopBrandsContext.cs" Line="16" Column="13" />
+      <File FileName="MVC2/appsettings.json" Line="14" Column="1" />
+      <File FileName="MVC2/Views/Brand/Create.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Migrations/LaptopBrandsContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Program.cs" Line="13" Column="1" />
+      <File FileName="MVC2/Views/Shared/_Layout.cshtml" Line="29" Column="93" />
+      <File FileName="MVC2/Controllers/BrandController.cs" Line="10" Column="15" />
+      <File FileName="MVC2/Migrations/20230216154502_InitialCreate2.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Controllers/LaptopController.cs" Line="71" Column="50" />
+      <File FileName="MVC2/Views/Brand/Index.cshtml" Line="35" Column="13" />
+      <File FileName="MVC2/Views/Laptop/Index.cshtml" Line="37" Column="31" />
+      <File FileName="MVC2/Views/Laptop/Create.cshtml" Line="42" Column="6" />
+      <File FileName="MVC2/Models/Form Models/CreateLaptop.cs" Line="6" Column="32" />
+      <File FileName="MVC2/Models/Form Models/LaptopsByBrandFiltered.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Models/Form Models/CompareLaptops.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Laptop/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Laptop/Details.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Laptop/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Brand/Details.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Brand/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Views/Brand/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="MVC2/Models/ViewModels/CreateLaptopViewModel.cs" Line="7" Column="27" />
+      <File FileName="MVC2/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Models/Form Models/LaptopsInRange.cs" Line="1" Column="1" />
+      <File FileName="MVC2/Models/Form Models/LaptopsByBrandOrdered.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC2" expanded="True">
+            <Node name="MVC2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Form Models" expanded="True" />
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Brand" expanded="True" />
+                <Node name="Laptop" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
